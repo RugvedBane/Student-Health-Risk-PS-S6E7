@@ -82,4 +82,3 @@ Student-Health-Risk-PS-S6E7/
 **Rugved Bane**
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-rugvedbane-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/rugvedbane)
-[![GitHub](https://img.shields.io/badge/GitHub-RugvedBane-181717?style=flat&logo=github)](https://github.com/RugvedBane)
